@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This is a secret folder, please do not read.
